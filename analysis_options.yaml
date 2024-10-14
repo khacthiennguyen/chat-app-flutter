@@ -1,0 +1,18 @@
+include: package:flutter_lints/flutter.yaml
+analyzer:
+  errors:
+    prefer_const_constructors: ignore 
+    must_be_immutable: ignore
+    library_private_types_in_public_api: ignore
+    unnecessary_string_interpolations: ignore
+    prefer_const_constructors_in_immutables: ignore
+    use_build_context_synchronously: ignore
+    avoid_print: ignore
+    non_constant_identifier_names: ignore
+    avoid_unnecessary_containers: ignore
+    no_leading_underscores_for_local_identifiers: ignore
+    body_might_complete_normally_catch_error: ignore
+    await_only_futures: ignore
+    unused_local_variable: ignore
+    prefer_const_literals_to_create_immutables: ignore
+    sort_child_properties_last: ignore
